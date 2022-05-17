@@ -1,6 +1,6 @@
 ## Neobotix GmbH
 
-Neobotix is one of the best state of the art manufacturer of mobile robots and components. To know more about our products and components, please visit https://www.neobotix-robots.com/homepage 
+Neobotix is one of the state of the art manufacturers of mobile robots and it's components. To know more about our robots and the components, please visit https://www.neobotix-robots.com/homepage 
 
 In case, if you are here and looking for some help in getting started with our products and software 👩‍💻, then please take a look at our wonderful documentations: https://neobotix-docs.de/
 
