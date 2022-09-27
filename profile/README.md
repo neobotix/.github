@@ -1,6 +1,8 @@
 [<img src="https://user-images.githubusercontent.com/20242192/168802475-028f247e-1f31-44bc-b811-a0488ccde758.png" alt="drawing" width="350"/>](https://www.neobotix-robots.com/homepage)
 
-Neobotix is a world-famous manufacturer of mobile robots and robot systems. We offer robots and manipulators for all applications with full ROS / ROS-2 support. To know more about our robots and the components, please visit https://www.neobotix-robots.com/homepage 
+Neobotix is a world-famous manufacturer of mobile robots and robot systems. We offer robots and manipulators for all applications with full ROS / ROS-2 support. To know more about our robots and the components, please visit https://www.neobotix-robots.com/homepage
+
+To get latest updates and news about our projects, you can also follow our [Linkedin page](https://www.linkedin.com/company/neobotix-gmbh/). 
 
 In case you are here and looking for some help in getting started with our products and software, then please take a look at our wonderful documentation: https://neobotix-docs.de/
 
