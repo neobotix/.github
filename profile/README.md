@@ -1,4 +1,4 @@
-[<img src="https://user-images.githubusercontent.com/20242192/168802475-028f247e-1f31-44bc-b811-a0488ccde758.png" alt="drawing" width="350"/>](https://www.neobotix-robots.com/homepage)
+[<img src="https://user-images.githubusercontent.com/20242192/233622658-c1f0add0-719b-4121-a2c0-c02078061273.png" alt="drawing" width="500"/>](https://www.neobotix-robots.com/homepage)
 
 Neobotix is a world-famous manufacturer of mobile robots and robot systems. We offer robots and manipulators for all applications with full ROS / ROS-2 support. To know more about our robots and the components, please visit https://www.neobotix-robots.com/homepage
 
